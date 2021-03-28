@@ -18,8 +18,9 @@ https://www.youtube.com/watch?v=uNW
                         </li>
                         <li>
                         <a href=news.html">
-                              blage>
+                              blague       
       </a>
     </li>
   </ul>
   </nav>
+vous saver se que dit un poisson a un chat?reponse tu vas pas sortir la casrol commeaime
